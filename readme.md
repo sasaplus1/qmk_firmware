@@ -1,5 +1,7 @@
 # qmk_firmware
 
+[![Build Status](https://travis-ci.com/sasaplus1/qmk_firmware.svg?branch=sasaplus1)](https://travis-ci.com/sasaplus1/qmk_firmware)
+
 my keyboard mappings
 
 [more details](https://github.com/qmk/qmk_firmware)
