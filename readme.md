@@ -11,6 +11,9 @@ my keyboard mappings
 - [The volume changer for macOS with meishi](/keyboards/meishi/keymaps/volumes)
     - `$ make meishi:volumes:avrdude`
     - see [Meishi keyboard 組み立て方ガイド](http://biacco42.hatenablog.com/entry/2018/01/21/204749)
+- [Iris Rev.2](/keyboards/keebio/iris/keymaps/sasaplus1)
+    - `$ make keebio/iris/rev2:sasaplus1:avrdude`
+    - see [/keyboards/keebio/iris](/keyboards/keebio/iris)
 
 ## How to maintenance
 
