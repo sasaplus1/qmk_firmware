@@ -17,6 +17,8 @@ my keyboard mappings
 
 ## How to maintenance
 
+### setup
+
 ```console
 $ git clone ssh://git@github.com/sasaplus1/qmk_firmware.git
 $ cd ./qmk_firmware
@@ -28,4 +30,11 @@ $ git fetch upstream
 $ git checkout sasaplus1
 $ git fetch upstream
 $ git rebase upstream/master
+```
+
+### fetch upstream commits and rebase my commits
+
+```console
+$ git checkout sasaplus1
+$ git rebase upstream/master -X theirs
 ```
