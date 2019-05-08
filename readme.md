@@ -36,5 +36,7 @@ $ git rebase upstream/master
 
 ```console
 $ git checkout sasaplus1
+$ git fetch --prune upstream
 $ git rebase upstream/master -X theirs
+$ git push origin +sasaplus1
 ```
