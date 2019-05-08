@@ -14,6 +14,9 @@ my keyboard mappings
 - [Iris Rev.2](/keyboards/keebio/iris/keymaps/sasaplus1)
     - `$ make keebio/iris/rev2:sasaplus1:avrdude`
     - see [/keyboards/keebio/iris](/keyboards/keebio/iris)
+- [Laplace](/keyboards/keebio/laplace/keymaps/sasaplus1)
+    - `$ make keebio/laplace:sasaplus1:avrdude`
+    - see [/keyboards/keebio/laplace](/keyboards/keebio/laplace)
 - [XD60 Rev.3](/keyboards/xd60/keymaps/sasaplus1)
     - push reset button and `$ make xd60/rev3:sasaplus1:dfu`
         - if `dfu-programmer` is not installed yet, execute `$ brew install dfu-programmer`
