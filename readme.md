@@ -14,6 +14,9 @@ my keyboard mappings
 - [Iris Rev.2](/keyboards/keebio/iris/keymaps/sasaplus1)
     - `$ make keebio/iris/rev2:sasaplus1:avrdude`
     - see [/keyboards/keebio/iris](/keyboards/keebio/iris)
+- [XD60 Rev.3](/keyboards/xd60/keymaps/sasaplus1)
+    - push reset button and `$ make xd60/rev3:sasaplus1:dfu`
+    - see [/keyboards/xd60](/keyboards/xd60)
 
 ## How to maintenance
 
