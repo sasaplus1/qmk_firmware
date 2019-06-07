@@ -16,6 +16,7 @@ my keyboard mappings
     - see [/keyboards/keebio/iris](/keyboards/keebio/iris)
 - [XD60 Rev.3](/keyboards/xd60/keymaps/sasaplus1)
     - push reset button and `$ make xd60/rev3:sasaplus1:dfu`
+        - if `dfu-programmer` is not installed yet, execute `$ brew install dfu-programmer`
     - see [/keyboards/xd60](/keyboards/xd60)
 
 ## How to maintenance
